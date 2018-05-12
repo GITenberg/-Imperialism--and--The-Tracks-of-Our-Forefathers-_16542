@@ -1,0 +1,32 @@
+_repo: -Imperialism--and--The-Tracks-of-Our-Forefathers-_16542
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adams, Charles Francis
+    aliases:
+    - Adams, Charles F. (Charles Francis)
+    - Adams, C. F. (Charles Francis)
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '3239'
+    url: http://www.gutenberg.org/2009/agents/3239
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Francis_Adams,_Jr.
+description: ''
+gutenberg_issued: '2005-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16542'
+  lccn: '16021353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Imperialism'
+- !lcc 'E660'
+- !lcsh 'United States -- Colonial question'
+title: '"Imperialism" and "The Tracks of Our Forefathers"'
+url: http://www.gutenberg.org/ebooks/16542
